@@ -1,19 +1,7 @@
-
-
 body{
-  background-color: aquamarine;
-}
-
-
-body{
-    margin: 0;
-    font-family: "Courier New";
     background-color: rgb(235, 219, 171);
     background-image: url("../images/background-picture.Oblig1.jpg");
   }
-/* kilde image: https://coolwallpapers.me/2815528-digital-art-minimalism-abstract-pattern-geometry-triangle-square-colorful-lines-mosaic.html */
-/* modified on photoshop */
-
 
   img{
     text-align: center;
@@ -36,3 +24,5 @@ body{
   }
   
   /*Kilde til CSS over: https://www.webnots.com/how-to-create-custom-css-text-boxes/#google_vignette*/
+  /* kilde image: https://coolwallpapers.me/2815528-digital-art-minimalism-abstract-pattern-geometry-triangle-square-colorful-lines-mosaic.html */
+/* image: modified on photoshop */
