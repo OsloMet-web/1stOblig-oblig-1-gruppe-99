@@ -8,7 +8,7 @@ body{
   }
  
   div{
-    background-color:rgb(154, 135, 101);
+    background-color:rgb(224, 158, 222);
     border-radius:4px;
     font-size:16px;
     padding:15px;
@@ -16,7 +16,7 @@ body{
   }
   
   footer{
-    background-color:rgb(255, 217, 2);
+    background-color:rgba(67, 11, 82, 0.185);
     border-radius:4px;
     font-size:16px;
     padding:15px;
