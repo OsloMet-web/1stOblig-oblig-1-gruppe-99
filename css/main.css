@@ -1,6 +1,7 @@
 body{
     background-color: rgb(235, 219, 171);
     background-image: url("../images/background-picture.Oblig1.jpg");
+    background-size: cover;
   }
 
   img{
