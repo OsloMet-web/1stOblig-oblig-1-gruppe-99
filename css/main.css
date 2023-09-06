@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(235, 219, 171);
+    background-image: url("../images/background-picture.Oblig1.jpg");
+    background-size: cover;
+  }
+
+  .button {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 2px solid #CCCCCC;
+    border-right: 2px solid #333333;
+    border-bottom: 2px solid #333333;
+    border-left: 2px solid #CCCCCC;
+  }
+
+/*https://stackoverflow.com/questions/710089/how-do-i-make-an-html-link-look-like-a-button*/
+
+  img{
+    text-align: center;
+  }
+ 
+  div{
+    background-color:rgb(161, 94, 97);
+    border-radius:4px;
+    font-size:16px;
+    padding:15px;
+    margin:5px;
+  }
+  
+  footer{
+    background-color:rgba(101, 98, 65, 0.952);
+    border-radius:4px;
+    font-size:16px;
+    padding:15px;
+    margin:5px;
+  }
+  
+  /*Kilde til CSS over: https://www.webnots.com/how-to-create-custom-css-text-boxes/#google_vignette*/
+  /* kilde image: https://coolwallpapers.me/2815528-digital-art-minimalism-abstract-pattern-geometry-triangle-square-colorful-lines-mosaic.html */
+/* image: modified on photoshop */
